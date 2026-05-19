@@ -1,0 +1,77 @@
+# RoniM — Generative Engine Optimization Map
+
+> A freelance AI architect who specializes in building professional networks and AI infrastructure for large organizations. The brand identity is sleek and minimal ('lean'), with a strong emphasis on dynamic visual storytelling — featuring scroll-triggered text animations and immersive imagery that reveal content as the user scrolls. The overall vibe is sophisticated, tech-forward, and visually compelling, designed to impress enterprise-level clients.
+
+---
+
+## Pages
+
+### בית
+https://ronim-117db5b0.zappy5.app
+RoniM מובילה ארגונים גדולים אל עידן ה-AI עם ארכיטקטורה חכמה, תשתיות מתקדמות ואסטרטגיה עסקית מדויקת. גלו כיצד בינה מלאכותית הופכת לנכס הגדול ביותר שלכם.
+
+### שירותים
+https://ronim-117db5b0.zappy5.app/services
+מייעוץ אסטרטגי ועד פריסת תשתיות AI מורכבות — RoniM מציעה שירותים מותאמים אישית לארגונים שרוצים להוביל את השוק. גלו את מלוא מגוון הפתרונות שלנו.
+
+### אודות
+https://ronim-117db5b0.zappy5.app/about
+היכירו את RoniM — ארכיטקט AI פרילנסר עם ניסיון עמוק בבניית רשתות מקצועיות ותשתיות בינה מלאכותית לארגונים מובילים. הסיפור, החזון והמומחיות שמניעים תוצאות אמיתיות.
+
+### צור קשר
+https://ronim-117db5b0.zappy5.app/contact
+מוכנים להפוך את הארגון שלכם לחדשני ומונחה-AI? צרו קשר עם RoniM עכשיו ותקבלו ייעוץ ראשוני מותאם לצרכים הייחודיים של העסק הגדול שלכם. הצעד הבא מתחיל כאן.
+
+## Legal & Policy
+
+### Privacy Policy
+https://ronim-117db5b0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ronim-117db5b0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ronim-117db5b0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://ronim-117db5b0.zappy5.app/contact
+- Endpoint: https://ronim-117db5b0.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About RoniM
+A freelance AI architect who specializes in building professional networks and AI infrastructure for large organizations. The brand identity is sleek and minimal ('lean'), with a strong emphasis on dynamic visual storytelling — featuring scroll-triggered text animations and immersive imagery that reveal content as the user scrolls. The overall vibe is sophisticated, tech-forward, and visually compelling, designed to impress enterprise-level clients.
+
+## Target Audience
+- ארגונים גדולים הזקוקים לרשת מקצועית
+- מובילי חדשנות חברות טכנולוגיה
+
+## Industry
+AI Architecture & Consulting
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://ronim-117db5b0.zappy5.app/sitemap.xml
+- Robots: https://ronim-117db5b0.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ronim-117db5b0.zappy5.app/llms-full.txt
