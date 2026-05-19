@@ -2,13 +2,13 @@
 
 A freelance AI architect who specializes in building professional networks and AI infrastructure for large organizations. The brand identity is sleek and minimal ('lean'), with a strong emphasis on dynamic visual storytelling — featuring scroll-triggered text animations and immersive imagery that reveal content as the user scrolls. The overall vibe is sophisticated, tech-forward, and visually compelling, designed to impress enterprise-level clients.
 
-Source: https://ronim-117db5b0.zappy5.app
+Source: https://example.com
 
 ---
 
 ## RoniM — RoniM
 
-URL: https://ronim-117db5b0.zappy5.app
+URL: https://example.com
 Description: RoniM מובילה ארגונים גדולים אל עידן ה-AI עם ארכיטקטורה חכמה, תשתיות מתקדמות ואסטרטגיה עסקית מדויקת. גלו כיצד בינה מלאכותית הופכת לנכס הגדול ביותר שלכם.
 
 RoniM — RoniM
@@ -406,7 +406,7 @@ RoniM — RoniM
 
 ## פתרונות AI שמשנים את כללי המשחק — RoniM
 
-URL: https://ronim-117db5b0.zappy5.app/services
+URL: https://example.com/services
 Description: מייעוץ אסטרטגי ועד פריסת תשתיות AI מורכבות — RoniM מציעה שירותים מותאמים אישית לארגונים שרוצים להוביל את השוק. גלו את מלוא מגוון הפתרונות שלנו.
 
 פתרונות AI שמשנים את כללי המשחק — RoniM
@@ -884,7 +884,7 @@ RoniM מציעה ליווי מקצועי מלא לארגונים גדולים ה
 
 ## האדם שמאחורי המהפכה הדיגיטלית שלכם — RoniM
 
-URL: https://ronim-117db5b0.zappy5.app/about
+URL: https://example.com/about
 Description: היכירו את RoniM — ארכיטקט AI פרילנסר עם ניסיון עמוק בבניית רשתות מקצועיות ותשתיות בינה מלאכותית לארגונים מובילים. הסיפור, החזון והמומחיות שמניעים תוצאות אמיתיות.
 
 האדם שמאחורי המהפכה הדיגיטלית שלכם — RoniM
@@ -1301,7 +1301,7 @@ RoniM נוצרה מתוך אמונה שארגון גדול ראוי לפתרון
 
 ## התחילו את מסע ה-AI שלכם היום — RoniM
 
-URL: https://ronim-117db5b0.zappy5.app/contact
+URL: https://example.com/contact
 Description: מוכנים להפוך את הארגון שלכם לחדשני ומונחה-AI? צרו קשר עם RoniM עכשיו ותקבלו ייעוץ ראשוני מותאם לצרכים הייחודיים של העסק הגדול שלכם. הצעד הבא מתחיל כאן.
 
 התחילו את מסע ה-AI שלכם היום — RoniM
@@ -1648,7 +1648,7 @@ RoniM · ייעוץ בינה מלאכותית לעסקים גדולים
 
 ## מדיניות פרטיות
 
-URL: https://ronim-117db5b0.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1846,7 +1846,7 @@ RoniM ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיו
 
 ## הצהרת נגישות
 
-URL: https://ronim-117db5b0.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2053,7 +2053,7 @@ RoniM מחויבת להנגיש את השירותים לכלל הציבור. א�
 
 ## תנאי שימוש
 
-URL: https://ronim-117db5b0.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
